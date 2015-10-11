@@ -270,7 +270,7 @@ jQuery(document).ready(function() {
     /*  Google Maps
     /* --------------------------------------------------------------------------- */
 
-    var $latlng             = new google.maps.LatLng(34.021453,-118.785027),
+    var $latlng             = new google.maps.LatLng(38.548804, -121.768914),
         $myOptions          = {
             zoom            : 16,
             center          : $latlng,
